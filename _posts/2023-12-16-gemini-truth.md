@@ -2,7 +2,7 @@
 layout: post
 title: Lời nói dối của Gemini - Bước tiến mới của AI từ Google
 date: 2023-12-16
-categories: [news, technology]
+categories: [News, Technology]
 tags: [artificial intelligence, gemini, google]
 image: https://i.postimg.cc/76CrV4Kx/0-gemini-truth.jpg
 ---

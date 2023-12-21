@@ -11,7 +11,7 @@ _Avatar do mình vẽ bản thân (một cách lười biếng)._
 
 _Thân chào bạn đọc,_
 
-Tên của mình là **Lý Trí Đức** (3 dấu sắc đấy, thú vị nhỉ), những bạn thích dùng tên tiếng Anh có thể gọi mình là _Mike_ hoặc _Lee_. Các bạn muốn tìm hiểu rõ hơn về mình thì có thể đợi trang web cá nhân của mình vài ngày tới, tài khoản Github, Facebook, LinkedIn và email của mình đã được link vào icon ở cột bên trái (có thể bạn phải scroll xuống).
+Tên của mình là **Lý Trí Đức** (3 dấu sắc đấy, thú vị nhỉ), những bạn thích dùng tên tiếng Anh có thể gọi mình là _Mike_ hoặc _Lee_. Các bạn muốn tìm hiểu rõ hơn về mình có thể ghé thăm [web cá nhân của mình](https://ductrl.github.io), tài khoản Github, Facebook, LinkedIn và email của mình đã được link vào icon ở cột bên trái (có thể bạn phải scroll xuống).
 
 # Về BleeVN
 

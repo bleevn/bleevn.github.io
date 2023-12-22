@@ -7,6 +7,8 @@ tags: [adobe, figma, design, ui/ux]
 image: https://i.postimg.cc/PxhKFtym/adobe-figma-top.jpg
 ---
 
+> **KEY POINTS**
+>
 > - Adobe thông báo sẽ chính thức hủy bỏ thương vụ mua Figma với giá 20 tỉ USD.
 > - Cả 2 bên đều không _“tìm thấy được hướng giải quyết nào đạt được sự phê duyệt theo quy định”_.
 > - Adobe sẽ tập trung vào Generative AI.
